@@ -1,5 +1,5 @@
 ### Blake Ward
-- Kettering
-- Tacos
-- Guitar
-- Purple
+**Location:** Kettering
+**Food:** Tacos
+**Hobby:** Guitar
+**Favorite Color:** Purple
